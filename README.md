@@ -1,2 +1,2 @@
 - Hear Me Out -
-https://github.com/Hearme0ut/site/index.html
+https://Hearme0ut.github.io/site/index.html
